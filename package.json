@@ -71,7 +71,7 @@
     "gatsby-plugin-page-creator": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.4",
     "gatsby-plugin-sharp": "^2.0.15",
-    "marked": "^0.5.1",
+    "marked": "^0.7.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-emotion": "^9.2.10",
